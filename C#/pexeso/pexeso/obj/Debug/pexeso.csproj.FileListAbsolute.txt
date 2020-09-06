@@ -1,0 +1,6 @@
+c:\users\root\documents\visual studio 2012\Projects\pexeso\pexeso\bin\Debug\pexeso.exe.config
+C:\Users\root\documents\visual studio 2012\Projects\pexeso\pexeso\bin\Debug\pexeso.exe
+C:\Users\root\documents\visual studio 2012\Projects\pexeso\pexeso\bin\Debug\pexeso.pdb
+C:\Users\root\documents\visual studio 2012\Projects\pexeso\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+C:\Users\root\documents\visual studio 2012\Projects\pexeso\pexeso\obj\Debug\pexeso.exe
+C:\Users\root\documents\visual studio 2012\Projects\pexeso\pexeso\obj\Debug\pexeso.pdb

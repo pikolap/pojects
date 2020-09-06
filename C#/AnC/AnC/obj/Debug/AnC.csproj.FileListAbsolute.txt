@@ -1,0 +1,13 @@
+c:\users\root\documents\visual studio 2012\Projects\AnC\AnC\bin\Debug\AnC.exe.config
+C:\Users\root\Documents\Visual Studio 2012\Projects\AnC\AnC\bin\Debug\AnC.exe
+C:\Users\root\Documents\Visual Studio 2012\Projects\AnC\AnC\bin\Debug\AnC.pdb
+C:\Users\root\Documents\Visual Studio 2012\Projects\AnC\AnC\obj\Debug\AnC.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2012\Projects\AnC\AnC\obj\Debug\AnC.exe
+C:\Users\root\Documents\Visual Studio 2012\Projects\AnC\AnC\obj\Debug\AnC.pdb
+C:\Users\root\Desktop\Projects\AnC\AnC\bin\Debug\AnC.exe.config
+C:\Users\root\Desktop\Projects\AnC\AnC\bin\Debug\AnC.exe
+C:\Users\root\Desktop\Projects\AnC\AnC\bin\Debug\AnC.pdb
+C:\Users\root\Desktop\Projects\AnC\AnC\obj\Debug\AnC.csprojAssemblyReference.cache
+C:\Users\root\Desktop\Projects\AnC\AnC\obj\Debug\AnC.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Projects\AnC\AnC\obj\Debug\AnC.exe
+C:\Users\root\Desktop\Projects\AnC\AnC\obj\Debug\AnC.pdb

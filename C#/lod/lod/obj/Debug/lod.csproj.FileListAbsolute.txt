@@ -1,0 +1,6 @@
+c:\users\root\documents\visual studio 2012\Projects\lod\lod\bin\Debug\lod.exe.config
+c:\users\root\documents\visual studio 2012\Projects\lod\lod\bin\Debug\lod.exe
+c:\users\root\documents\visual studio 2012\Projects\lod\lod\bin\Debug\lod.pdb
+c:\users\root\documents\visual studio 2012\Projects\lod\lod\obj\Debug\lod.exe
+c:\users\root\documents\visual studio 2012\Projects\lod\lod\obj\Debug\lod.pdb
+C:\Users\root\documents\visual studio 2012\Projects\lod\lod\obj\Debug\lod.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\root\documents\visual studio 2012\Projects\turnaj\turnaj\bin\Debug\turnaj.exe.config
+c:\users\root\documents\visual studio 2012\Projects\turnaj\turnaj\bin\Debug\turnaj.exe
+c:\users\root\documents\visual studio 2012\Projects\turnaj\turnaj\bin\Debug\turnaj.pdb
+c:\users\root\documents\visual studio 2012\Projects\turnaj\turnaj\obj\Debug\turnaj.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2012\Projects\turnaj\turnaj\obj\Debug\turnaj.exe
+c:\users\root\documents\visual studio 2012\Projects\turnaj\turnaj\obj\Debug\turnaj.pdb
